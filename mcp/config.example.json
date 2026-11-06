@@ -1,0 +1,13 @@
+{
+  "workspace": "./local-workspace",
+  "original_database": "C:/CarSim/Data",
+  "carsim_program": "C:/CarSim/2021",
+  "codex_config": "~/.codex/config.toml",
+  "matlab_server_name": "matlab",
+  "start_license_manager": false,
+  "license_startup_seconds": 2,
+  "abs_base": "",
+  "abs_base_sha256": "",
+  "abs_model": "",
+  "model_sha256": ""
+}

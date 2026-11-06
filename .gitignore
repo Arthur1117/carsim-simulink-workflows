@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.state/
+experiments/
+local-workspace/
+config.local.json
+*.cpar
+*.slx
+*.slxc
+*.mexw64
+*.dll
+*.vsb
+slprj/
+.env
